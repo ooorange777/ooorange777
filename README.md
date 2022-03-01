@@ -65,10 +65,10 @@ The following rankings are not in particular order.
 
 <!-- BLOG-POST-LIST:START -->
 - [这个杀手不太冷静](https://ooorange777.github.io/posts/2022/02/2022022801/)
-- [Theme Changelog](https://ooorange.github.io/notebook/posts/2022022401/)
-- [Hugo 安装与部署](https://ooorange.github.io/notebook/posts/2022022101/)
-- [Hugo 新体验](https://ooorange.github.io/notebook/posts/2022022001/)
-- [Hello World](https://ooorange.github.io/notebook/posts/2022021501/)
+- [Theme Changelog](https://ooorange777.github.io/notebook/posts/2022022401/)
+- [Hugo 安装与部署](https://ooorange777.github.io/notebook/posts/2022022101/)
+- [Hugo 新体验](https://ooorange777.github.io/notebook/posts/2022022001/)
+- [Hello World](https://ooorange777.github.io/notebook/posts/2022021501/)
 - [202201 书影总结](https://ooorange777.github.io/posts/2022/02/2022020701/)
 - [在最精彩的时候坠落](https://ooorange777.github.io/posts/2022/01/2022012901/)
 - [2021年终总结](https://ooorange777.github.io/posts/2022/01/2022010201/)
