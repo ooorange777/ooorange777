@@ -77,7 +77,6 @@ The following rankings are not in particular order.
 - [自建V2Ray](https://ooorange777.github.io/posts/2021/09/2021091201/)
 - [Free Guy](https://ooorange777.github.io/posts/2021/09/2021090701/)
 - [Hugo搭建博客中的注意事项](https://ooorange777.github.io/posts/2021/09/2021090401/)
-- [Hugo博客搭建、部署](https://ooorange777.github.io/posts/2021/09/2021090301/)
 - [对于在墙内平台上安利Fedi的看法](https://ooorange777.github.io/posts/2021/09/2021090201/)
 - [書店的記憶](https://ooorange777.github.io/posts/2021/08/2021083001/)
 - [404 Not Found](https://ooorange777.github.io/posts/2021/08/2021082902/)
