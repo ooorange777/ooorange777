@@ -64,6 +64,7 @@ The following rankings are not in particular order.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [202202 书影总结](https://ooorange777.github.io/posts/2022/03/2022030701/)
 - [再见，3:30 P.M.](https://ooorange777.github.io/posts/2022/03/2022030401/)
 - [这个杀手不太冷静](https://ooorange777.github.io/posts/2022/02/2022022801/)
 - [Theme Changelog](https://ooorange777.github.io/notebook/posts/2022022401/)
