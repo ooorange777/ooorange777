@@ -70,7 +70,7 @@ The following rankings are not in particular order.
 - [Theme Changelog](https://tech.notomorrow.club/posts/2022022401/)
 - [Hugo 安装与部署](https://tech.notomorrow.club/posts/2022022101/)
 - [Hugo 新体验](https://tech.notomorrow.club/posts/2022022001/)
-- [Hello World](https://tech.notomorrow.club/posts/2022021501/)
+- [Markdown](https://tech.notomorrow.club/posts/2022021501/)
 - [202201 书影总结](https://blog.notomorrow.club/posts/2022/02/2022020701/)
 - [在最精彩的时候坠落](https://blog.notomorrow.club/posts/2022/01/2022012901/)
 - [2021年终总结](https://blog.notomorrow.club/posts/2022/01/2022010201/)
