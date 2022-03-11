@@ -4,6 +4,54 @@
 
 👀 I am interested in ACG and mystery stories.
 
+## Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Hugo 部署的几种方式](https://tech.notomorrow.club/posts/2022030801/)
+- [202202 书影总结](https://blog.notomorrow.club/posts/2022/03/2022030701/)
+- [再见，3:30 P.M.](https://blog.notomorrow.club/posts/2022/03/2022030401/)
+- [这个杀手不太冷静](https://blog.notomorrow.club/posts/2022/02/2022022801/)
+- [Theme Changelog](https://tech.notomorrow.club/posts/2022022401/)
+- [Hugo 安装与部署](https://tech.notomorrow.club/posts/2022022101/)
+- [Hugo 新体验](https://tech.notomorrow.club/posts/2022022001/)
+- [Markdown](https://tech.notomorrow.club/posts/2022021501/)
+- [202201 书影总结](https://blog.notomorrow.club/posts/2022/02/2022020701/)
+- [在最精彩的时候坠落](https://blog.notomorrow.club/posts/2022/01/2022012901/)
+- [2021年终总结](https://blog.notomorrow.club/posts/2022/01/2022010201/)
+- [战国美少女2](https://blog.notomorrow.club/posts/2021/10/2021102801/)
+- [加入联邦宇宙一周年](https://blog.notomorrow.club/posts/2021/10/2021102101/)
+- [自建V2Ray](https://blog.notomorrow.club/posts/2021/09/2021091201/)
+- [Free Guy](https://blog.notomorrow.club/posts/2021/09/2021090701/)
+- [Hugo搭建博客中的注意事项](https://blog.notomorrow.club/posts/2021/09/2021090401/)
+- [对于在墙内平台上安利Fedi的看法](https://blog.notomorrow.club/posts/2021/09/2021090201/)
+- [書店的記憶](https://blog.notomorrow.club/posts/2021/08/2021083001/)
+- [404 Not Found](https://blog.notomorrow.club/posts/2021/08/2021082902/)
+- [罗杰疑案](https://blog.notomorrow.club/posts/2021/08/2021082901/)
+- [Endless Summer](https://blog.notomorrow.club/posts/2021/08/2021081001/)
+- [见网友](https://blog.notomorrow.club/posts/2021/07/2021070701/)
+- [2021 SIFF Repo](https://blog.notomorrow.club/posts/2021/06/2021062601/)
+- [Hello World](https://blog.notomorrow.club/posts/2021/06/2021061301/)
+- [業餘愛好者](https://blog.notomorrow.club/posts/2021/06/2021061202/)
+- [狂赌之渊 2](https://blog.notomorrow.club/posts/2021/06/2021061201/)
+- [同桌的守護者](https://blog.notomorrow.club/posts/2021/06/2021061203/)
+- [前程似錦的女孩](https://blog.notomorrow.club/posts/2021/06/2021061101/)
+- [困在系统中的人](https://blog.notomorrow.club/posts/2021/06/2021061102/)
+- [我的姐姐](https://blog.notomorrow.club/posts/2021/05/2021053001/)
+- [无罪谋杀：科林尼案](https://blog.notomorrow.club/posts/2021/05/2021052801/)
+- [狂賭之淵 雙](https://blog.notomorrow.club/posts/2021/05/2021052101/)
+- [Join the Fediverse](https://blog.notomorrow.club/posts/2021/05/2021052102/)
+- [懸崖之上](https://blog.notomorrow.club/posts/2021/05/2021051501/)
+- [City Hunter &lpar;France&rpar;](https://blog.notomorrow.club/posts/2021/05/2021051301/)
+- [Add breadcrumb to hugo](https://blog.notomorrow.club/posts/2021/05/2021050801/)
+- [Zack Snyder&#39;s Justice League](https://blog.notomorrow.club/posts/2021/05/2021050602/)
+- [cowboy bebop](https://blog.notomorrow.club/posts/2021/05/2021050603/)
+- [Markdown testing](https://blog.notomorrow.club/posts/2021/05/2021050601/)
+- [埃及神明们的日常](https://blog.notomorrow.club/posts/2021/04/2021041701/)
+- [缉魂](https://blog.notomorrow.club/posts/2021/03/2021032001/)
+- [我为什么不说上海话了](https://blog.notomorrow.club/posts/2021/03/2021031101/)
+- [Dark](https://blog.notomorrow.club/posts/2021/03/2021092001/)
+<!-- BLOG-POST-LIST:END -->
+
 ## My Top 10
 
 The following rankings are not in particular order.
@@ -59,52 +107,3 @@ The following rankings are not in particular order.
 8. 神之雫
 9. Naruto
 10. 浪客行
-
-
-## Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Hugo 部署的几种方式](https://tech.notomorrow.club/posts/2022030801/)
-- [202202 书影总结](https://blog.notomorrow.club/posts/2022/03/2022030701/)
-- [再见，3:30 P.M.](https://blog.notomorrow.club/posts/2022/03/2022030401/)
-- [这个杀手不太冷静](https://blog.notomorrow.club/posts/2022/02/2022022801/)
-- [Theme Changelog](https://tech.notomorrow.club/posts/2022022401/)
-- [Hugo 安装与部署](https://tech.notomorrow.club/posts/2022022101/)
-- [Hugo 新体验](https://tech.notomorrow.club/posts/2022022001/)
-- [Markdown](https://tech.notomorrow.club/posts/2022021501/)
-- [202201 书影总结](https://blog.notomorrow.club/posts/2022/02/2022020701/)
-- [在最精彩的时候坠落](https://blog.notomorrow.club/posts/2022/01/2022012901/)
-- [2021年终总结](https://blog.notomorrow.club/posts/2022/01/2022010201/)
-- [战国美少女2](https://blog.notomorrow.club/posts/2021/10/2021102801/)
-- [加入联邦宇宙一周年](https://blog.notomorrow.club/posts/2021/10/2021102101/)
-- [自建V2Ray](https://blog.notomorrow.club/posts/2021/09/2021091201/)
-- [Free Guy](https://blog.notomorrow.club/posts/2021/09/2021090701/)
-- [Hugo搭建博客中的注意事项](https://blog.notomorrow.club/posts/2021/09/2021090401/)
-- [对于在墙内平台上安利Fedi的看法](https://blog.notomorrow.club/posts/2021/09/2021090201/)
-- [書店的記憶](https://blog.notomorrow.club/posts/2021/08/2021083001/)
-- [404 Not Found](https://blog.notomorrow.club/posts/2021/08/2021082902/)
-- [罗杰疑案](https://blog.notomorrow.club/posts/2021/08/2021082901/)
-- [Endless Summer](https://blog.notomorrow.club/posts/2021/08/2021081001/)
-- [见网友](https://blog.notomorrow.club/posts/2021/07/2021070701/)
-- [2021 SIFF Repo](https://blog.notomorrow.club/posts/2021/06/2021062601/)
-- [Hello World](https://blog.notomorrow.club/posts/2021/06/2021061301/)
-- [業餘愛好者](https://blog.notomorrow.club/posts/2021/06/2021061202/)
-- [狂赌之渊 2](https://blog.notomorrow.club/posts/2021/06/2021061201/)
-- [同桌的守護者](https://blog.notomorrow.club/posts/2021/06/2021061203/)
-- [前程似錦的女孩](https://blog.notomorrow.club/posts/2021/06/2021061101/)
-- [困在系统中的人](https://blog.notomorrow.club/posts/2021/06/2021061102/)
-- [我的姐姐](https://blog.notomorrow.club/posts/2021/05/2021053001/)
-- [无罪谋杀：科林尼案](https://blog.notomorrow.club/posts/2021/05/2021052801/)
-- [狂賭之淵 雙](https://blog.notomorrow.club/posts/2021/05/2021052101/)
-- [Join the Fediverse](https://blog.notomorrow.club/posts/2021/05/2021052102/)
-- [懸崖之上](https://blog.notomorrow.club/posts/2021/05/2021051501/)
-- [City Hunter &lpar;France&rpar;](https://blog.notomorrow.club/posts/2021/05/2021051301/)
-- [Add breadcrumb to hugo](https://blog.notomorrow.club/posts/2021/05/2021050801/)
-- [Zack Snyder&#39;s Justice League](https://blog.notomorrow.club/posts/2021/05/2021050602/)
-- [cowboy bebop](https://blog.notomorrow.club/posts/2021/05/2021050603/)
-- [Markdown testing](https://blog.notomorrow.club/posts/2021/05/2021050601/)
-- [埃及神明们的日常](https://blog.notomorrow.club/posts/2021/04/2021041701/)
-- [缉魂](https://blog.notomorrow.club/posts/2021/03/2021032001/)
-- [我为什么不说上海话了](https://blog.notomorrow.club/posts/2021/03/2021031101/)
-- [Dark](https://blog.notomorrow.club/posts/2021/03/2021092001/)
-<!-- BLOG-POST-LIST:END -->
