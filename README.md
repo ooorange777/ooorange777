@@ -7,6 +7,7 @@
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tales from the loop](https://blog.notomorrow.club/posts/2022/04/2022040401/)
 - [用 Feed43 制作自己的 RSS 订阅源](https://tech.notomorrow.club/posts/2022031201/)
 - [Hugo 部署的几种方式](https://tech.notomorrow.club/posts/2022030801/)
 - [202202 书影总结](https://blog.notomorrow.club/posts/2022/03/2022030701/)
