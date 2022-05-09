@@ -7,6 +7,7 @@
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Misskey 防搜索引擎抓取](https://tech.notomorrow.club/posts/2022050801/)
 - [202203&amp;04 书影总结](https://blog.notomorrow.club/posts/2022/05/2022050801/)
 - [为 Misskey 配置外部储存](https://tech.notomorrow.club/posts/2022050101/)
 - [Tales from the loop](https://blog.notomorrow.club/posts/2022/04/2022040401/)
