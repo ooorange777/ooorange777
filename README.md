@@ -7,19 +7,11 @@
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Misskey 防搜索引擎抓取](https://tech.notomorrow.club/posts/2022050801/)
 - [202203&amp;04 书影总结](https://blog.notomorrow.club/posts/2022/05/2022050801/)
-- [为 Misskey 配置外部储存](https://tech.notomorrow.club/posts/2022050101/)
 - [Tales from the loop](https://blog.notomorrow.club/posts/2022/04/2022040401/)
-- [用 Feed43 制作自己的 RSS 订阅源](https://tech.notomorrow.club/posts/2022031201/)
-- [Hugo 部署的几种方式](https://tech.notomorrow.club/posts/2022030801/)
 - [202202 书影总结](https://blog.notomorrow.club/posts/2022/03/2022030701/)
 - [再见，3:30 P.M.](https://blog.notomorrow.club/posts/2022/03/2022030401/)
 - [这个杀手不太冷静](https://blog.notomorrow.club/posts/2022/02/2022022801/)
-- [Theme Changelog](https://tech.notomorrow.club/posts/2022022401/)
-- [Hugo 安装与部署](https://tech.notomorrow.club/posts/2022022101/)
-- [Hugo 新体验](https://tech.notomorrow.club/posts/2022022001/)
-- [Markdown](https://tech.notomorrow.club/posts/2022021501/)
 - [202201 书影总结](https://blog.notomorrow.club/posts/2022/02/2022020701/)
 - [在最精彩的时候坠落](https://blog.notomorrow.club/posts/2022/01/2022012901/)
 - [2021年终总结](https://blog.notomorrow.club/posts/2022/01/2022010201/)
