@@ -7,6 +7,7 @@
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [在服务器上安装 calibre-web](https://tech.notomorrow.club/posts/2022072201/)
 - [这60天我哪也没去](https://blog.notomorrow.club/posts/2022/07/2022070401/)
 - [嘘つき少年より](https://blog.notomorrow.club/posts/2022/05/2022051101/)
 - [Misskey 防搜索引擎抓取](https://tech.notomorrow.club/posts/2022050801/)
