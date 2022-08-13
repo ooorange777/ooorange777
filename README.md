@@ -6,7 +6,8 @@
 
 📬 Find me here:
 
-  [Misskey](@juju@f.jymuoyu.com) [Hubzilla](@orange@pisma.bgzashtita.es)
+- [Misskey](@juju@f.jymuoyu.com)
+- [Hubzilla](@orange@pisma.bgzashtita.es)
 
 ## Blog Posts
 
@@ -23,9 +24,10 @@
 - [Hugo 部署的几种方式](https://tech.notomorrow.club/posts/2022030801/)
 <!-- BLOG-POST-LIST:END -->
 
-- [Read more on my blog](https://blog.notomorrow.club)
+### Read more ...
 
-- [Read more on my notebook](https://blog.notomorrow.club)
+- [on my blog](https://blog.notomorrow.club)
+- [on my notebook](https://blog.notomorrow.club)
 
 ## My Top 10
 
