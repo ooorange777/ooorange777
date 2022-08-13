@@ -4,6 +4,10 @@
 
 👀 I am interested in ACG and mystery stories.
 
+📬 Find me here:
+
+  [Misskey](@juju@f.jymuoyu.com) [Hubzilla](@orange@pisma.bgzashtita.es)
+
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -18,6 +22,10 @@
 - [用 Feed43 制作自己的 RSS 订阅源](https://tech.notomorrow.club/posts/2022031201/)
 - [Hugo 部署的几种方式](https://tech.notomorrow.club/posts/2022030801/)
 <!-- BLOG-POST-LIST:END -->
+
+- [Read more on my blog](https://blog.notomorrow.club)
+
+- [Read more on my notebook](https://blog.notomorrow.club)
 
 ## My Top 10
 
