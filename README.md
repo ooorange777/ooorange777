@@ -44,7 +44,7 @@ The following rankings are not in particular order.
 7. 逆转裁判
 8. 黄金的太阳
 9. 恶魔城
-10. 星球大战（GBA上的游戏，但是不知道具体名字，解谜类的）
+10. Yoda's Stories
 
 ### Movies and Shows Top 10
 
