@@ -7,7 +7,6 @@
 📬 Find me here:
 
 - [Misskey](@juju@f.jymuoyu.com)
-- [Hubzilla](@orange@pisma.bgzashtita.es)
 
 ## Blog Posts
 
