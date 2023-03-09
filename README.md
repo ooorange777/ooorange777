@@ -26,7 +26,7 @@
 ### Read more ...
 
 - [on my blog](https://blog.notomorrow.club)
-- [on my notebook](https://blog.notomorrow.club)
+- [on my notebook](https://tech.notomorrow.club)
 
 ## My Top 10
 
