@@ -11,6 +11,7 @@
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [宇宙探索编辑部](https://blog.notomorrow.club/posts/2023/04/2023040701/)
 - [用 docker-compose 部署 memos](https://tech.notomorrow.club/posts/2023022801/)
 - [在 Debian 10 上安装 Pleroma](https://tech.notomorrow.club/posts/2023021901/)
 - [清理 Docker 日志文件](https://tech.notomorrow.club/posts/2023012701/)
@@ -20,7 +21,6 @@
 - [记一次 Misskey 升级事故](https://tech.notomorrow.club/posts/2022080701/)
 - [在服务器上安装 calibre-web](https://tech.notomorrow.club/posts/2022072201/)
 - [这60天我哪也没去](https://blog.notomorrow.club/posts/2022/07/2022070401/)
-- [嘘つき少年より](https://blog.notomorrow.club/posts/2022/05/2022051101/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Read more ...
