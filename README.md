@@ -11,6 +11,7 @@
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2023 SIFF Day1](https://blog.notomorrow.club/posts/2023/06/2023060901/)
 - [THE FIRST SLAM DUNK](https://blog.notomorrow.club/posts/2023/04/2023042601/)
 - [宇宙探索编辑部](https://blog.notomorrow.club/posts/2023/04/2023040701/)
 - [用 docker-compose 部署 memos](https://tech.notomorrow.club/posts/2023022801/)
@@ -20,7 +21,6 @@
 - [使用 Docker 安装 Matrix](https://tech.notomorrow.club/posts/2022082001/)
 - [VScode 连接远程服务器](https://tech.notomorrow.club/posts/2022081401/)
 - [记一次 Misskey 升级事故](https://tech.notomorrow.club/posts/2022080701/)
-- [在服务器上安装 calibre-web](https://tech.notomorrow.club/posts/2022072201/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Read more ...
