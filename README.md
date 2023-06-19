@@ -11,6 +11,7 @@
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2023 SIFF Day8](https://blog.notomorrow.club/posts/2023/06/2023061601/)
 - [2023 SIFF Day6&amp;7](https://blog.notomorrow.club/posts/2023/06/2023061501/)
 - [2023 SIFF Day4&amp;5](https://blog.notomorrow.club/posts/2023/06/2023061301/)
 - [2023 SIFF Day2&amp;3](https://blog.notomorrow.club/posts/2023/06/2023061101/)
@@ -20,7 +21,6 @@
 - [用 docker-compose 部署 memos](https://tech.notomorrow.club/posts/2023022801/)
 - [在 Debian 10 上安装 Pleroma](https://tech.notomorrow.club/posts/2023021901/)
 - [清理 Docker 日志文件](https://tech.notomorrow.club/posts/2023012701/)
-- [2022年终总结](https://blog.notomorrow.club/posts/2023/01/2023010801/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Read more ...
