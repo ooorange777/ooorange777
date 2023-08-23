@@ -11,6 +11,7 @@
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [安装 Misskey v13](https://tech.notomorrow.club/posts/2023082201/)
 - [清理 overlay2 中多余文件](https://tech.notomorrow.club/posts/2023062701/)
 - [2023 SIFF Day9&amp;10](https://blog.notomorrow.club/posts/2023/06/2023061901/)
 - [2023 SIFF Day8](https://blog.notomorrow.club/posts/2023/06/2023061601/)
@@ -20,7 +21,6 @@
 - [2023 SIFF Day1](https://blog.notomorrow.club/posts/2023/06/2023060901/)
 - [THE FIRST SLAM DUNK](https://blog.notomorrow.club/posts/2023/04/2023042601/)
 - [宇宙探索编辑部](https://blog.notomorrow.club/posts/2023/04/2023040701/)
-- [用 docker-compose 部署 memos](https://tech.notomorrow.club/posts/2023022801/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Read more ...
