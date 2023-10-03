@@ -11,6 +11,7 @@
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [联邦宇宙三周年](https://blog.notomorrow.club/posts/2023/10/2023100301/)
 - [永安镇故事集](https://blog.notomorrow.club/posts/2023/09/2023090501/)
 - [安装 Misskey v13](https://tech.notomorrow.club/posts/2023082201/)
 - [清理 overlay2 中多余文件](https://tech.notomorrow.club/posts/2023062701/)
@@ -20,7 +21,6 @@
 - [2023 SIFF Day4&amp;5](https://blog.notomorrow.club/posts/2023/06/2023061301/)
 - [2023 SIFF Day2&amp;3](https://blog.notomorrow.club/posts/2023/06/2023061101/)
 - [2023 SIFF Day1](https://blog.notomorrow.club/posts/2023/06/2023060901/)
-- [THE FIRST SLAM DUNK](https://blog.notomorrow.club/posts/2023/04/2023042601/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Read more ...
