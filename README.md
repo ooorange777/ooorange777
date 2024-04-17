@@ -15,12 +15,12 @@
 - [天台山二日游](https://blog.notomorrow.club/posts/2023/11/2023110301/)
 - [联邦宇宙三周年](https://blog.notomorrow.club/posts/2023/10/2023100301/)
 - [永安镇故事集](https://blog.notomorrow.club/posts/2023/09/2023090501/)
-- [安装 Misskey v13](https://tech.notomorrow.club/posts/2023082201/)
-- [清理 overlay2 中多余文件](https://tech.notomorrow.club/posts/2023062701/)
 - [2023 SIFF Day9&amp;10](https://blog.notomorrow.club/posts/2023/06/2023061901/)
 - [2023 SIFF Day8](https://blog.notomorrow.club/posts/2023/06/2023061601/)
 - [2023 SIFF Day6&amp;7](https://blog.notomorrow.club/posts/2023/06/2023061501/)
 - [2023 SIFF Day4&amp;5](https://blog.notomorrow.club/posts/2023/06/2023061301/)
+- [2023 SIFF Day2&amp;3](https://blog.notomorrow.club/posts/2023/06/2023061101/)
+- [2023 SIFF Day1](https://blog.notomorrow.club/posts/2023/06/2023060901/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Read more ...
