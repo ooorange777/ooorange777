@@ -11,6 +11,7 @@
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [近乎正常](https://blog.notomorrow.club/posts/2024/04/2024042801/)
 - [2023年终总结](https://blog.notomorrow.club/posts/2024/01/2024011501/)
 - [天台山二日游](https://blog.notomorrow.club/posts/2023/11/2023110301/)
 - [联邦宇宙三周年](https://blog.notomorrow.club/posts/2023/10/2023100301/)
@@ -20,7 +21,6 @@
 - [2023 SIFF Day9&amp;10](https://blog.notomorrow.club/posts/2023/06/2023061901/)
 - [2023 SIFF Day8](https://blog.notomorrow.club/posts/2023/06/2023061601/)
 - [2023 SIFF Day6&amp;7](https://blog.notomorrow.club/posts/2023/06/2023061501/)
-- [2023 SIFF Day4&amp;5](https://blog.notomorrow.club/posts/2023/06/2023061301/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Read more ...
