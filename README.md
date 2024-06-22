@@ -11,16 +11,16 @@
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [近乎正常](https://blog.notomorrow.club/posts/2024/04/2024042801/)
-- [2023年终总结](https://blog.notomorrow.club/posts/2024/01/2024011501/)
-- [天台山二日游](https://blog.notomorrow.club/posts/2023/11/2023110301/)
-- [联邦宇宙三周年](https://blog.notomorrow.club/posts/2023/10/2023100301/)
-- [永安镇故事集](https://blog.notomorrow.club/posts/2023/09/2023090501/)
 - [安装 Misskey v13](https://tech.notomorrow.club/posts/2023082201/)
 - [清理 overlay2 中多余文件](https://tech.notomorrow.club/posts/2023062701/)
-- [2023 SIFF Day9&amp;10](https://blog.notomorrow.club/posts/2023/06/2023061901/)
-- [2023 SIFF Day8](https://blog.notomorrow.club/posts/2023/06/2023061601/)
-- [2023 SIFF Day6&amp;7](https://blog.notomorrow.club/posts/2023/06/2023061501/)
+- [用 docker-compose 部署 memos](https://tech.notomorrow.club/posts/2023022801/)
+- [在 Debian 10 上安装 Pleroma](https://tech.notomorrow.club/posts/2023021901/)
+- [清理 Docker 日志文件](https://tech.notomorrow.club/posts/2023012701/)
+- [使用 Docker 安装 Matrix](https://tech.notomorrow.club/posts/2022082001/)
+- [VScode 连接远程服务器](https://tech.notomorrow.club/posts/2022081401/)
+- [记一次 Misskey 升级事故](https://tech.notomorrow.club/posts/2022080701/)
+- [在服务器上安装 calibre-web](https://tech.notomorrow.club/posts/2022072201/)
+- [Misskey 防搜索引擎抓取](https://tech.notomorrow.club/posts/2022050801/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Read more ...
