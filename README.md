@@ -11,6 +11,7 @@
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [人间失格](https://blog.notomorrow.club/posts/2024-07-13-%E4%BA%BA%E9%97%B4%E5%A4%B1%E6%A0%BC/)
 - [近乎正常](https://blog.notomorrow.club/posts/2024-04-28-next-to-normal/)
 - [2023年终总结](https://blog.notomorrow.club/posts/2024-01-15-2023%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/)
 - [天台山二日游](https://blog.notomorrow.club/posts/2023-11-03-%E5%A4%A9%E5%8F%B0%E5%B1%B1/)
@@ -20,7 +21,6 @@
 - [清理 overlay2 中多余文件](https://tech.notomorrow.club/posts/2023062701/)
 - [2023 SIFF Day9&amp;10](https://blog.notomorrow.club/posts/2023-06-18-2023-SIFF-REPO-6/)
 - [2023 SIFF Day8](https://blog.notomorrow.club/posts/2023-06-16-2023-SIFF-REPO-5/)
-- [2023 SIFF Day6&amp;7](https://blog.notomorrow.club/posts/2023-06-15-2023-SIFF-REPO-4/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Read more ...
