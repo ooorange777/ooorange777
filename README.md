@@ -11,6 +11,7 @@
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2024 SIFF REPO](https://blog.notomorrow.club/posts/2024-08-11-2024-SIFF-REPO/)
 - [人间失格](https://blog.notomorrow.club/posts/2024-07-13-%E4%BA%BA%E9%97%B4%E5%A4%B1%E6%A0%BC/)
 - [近乎正常](https://blog.notomorrow.club/posts/2024-04-28-next-to-normal/)
 - [2023年终总结](https://blog.notomorrow.club/posts/2024-01-15-2023%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/)
@@ -20,7 +21,6 @@
 - [安装 Misskey v13](https://tech.notomorrow.club/posts/2023082201/)
 - [清理 overlay2 中多余文件](https://tech.notomorrow.club/posts/2023062701/)
 - [2023 SIFF Day9&amp;10](https://blog.notomorrow.club/posts/2023-06-18-2023-SIFF-REPO-6/)
-- [2023 SIFF Day8](https://blog.notomorrow.club/posts/2023-06-16-2023-SIFF-REPO-5/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Read more ...
