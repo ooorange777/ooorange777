@@ -18,9 +18,9 @@
 - [天台山二日游](https://blog.notomorrow.club/posts/2023-11-03-%E5%A4%A9%E5%8F%B0%E5%B1%B1/)
 - [联邦宇宙三周年](https://blog.notomorrow.club/posts/2023-10-3-%E8%81%94%E9%82%A6%E5%AE%87%E5%AE%99%E4%B8%89%E5%91%A8%E5%B9%B4/)
 - [永安镇故事集](https://blog.notomorrow.club/posts/2023-09-05-%E6%B0%B8%E5%AE%89%E9%95%87%E6%95%85%E4%BA%8B%E9%9B%86/)
+- [安装 Misskey v13](https://tech.notomorrow.club/posts/2023082201/)
+- [清理 overlay2 中多余文件](https://tech.notomorrow.club/posts/2023062701/)
 - [2023 SIFF Day9&amp;10](https://blog.notomorrow.club/posts/2023-06-18-2023-SIFF-REPO-6/)
-- [2023 SIFF Day8](https://blog.notomorrow.club/posts/2023-06-16-2023-SIFF-REPO-5/)
-- [2023 SIFF Day6&amp;7](https://blog.notomorrow.club/posts/2023-06-15-2023-SIFF-REPO-4/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Read more ...
