@@ -11,6 +11,7 @@
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [又是近乎正常](https://blog.notomorrow.club/posts/2026-01-31-%E5%8F%88%E6%98%AF%E8%BF%91%E4%B9%8E%E6%AD%A3%E5%B8%B8/)
 - [Liz——一只小仓鼠](https://blog.notomorrow.club/posts/2026-01-11-Liz-%E4%B8%80%E5%8F%AA%E5%B0%8F%E4%BB%93%E9%BC%A0/)
 - [2025年终总结](https://blog.notomorrow.club/posts/2025-12-16-2025%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/)
 - [2024 SIFF REPO](https://blog.notomorrow.club/posts/2024-08-11-2024-SIFF-REPO/)
@@ -20,7 +21,6 @@
 - [天台山二日游](https://blog.notomorrow.club/posts/2023-11-03-%E5%A4%A9%E5%8F%B0%E5%B1%B1/)
 - [联邦宇宙三周年](https://blog.notomorrow.club/posts/2023-10-3-%E8%81%94%E9%82%A6%E5%AE%87%E5%AE%99%E4%B8%89%E5%91%A8%E5%B9%B4/)
 - [永安镇故事集](https://blog.notomorrow.club/posts/2023-09-05-%E6%B0%B8%E5%AE%89%E9%95%87%E6%95%85%E4%BA%8B%E9%9B%86/)
-- [安装 Misskey v13](https://tech.notomorrow.club/posts/2023082201/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Read more ...
