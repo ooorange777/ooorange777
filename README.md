@@ -11,6 +11,7 @@
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [别走，我们还没道别](https://blog.notomorrow.club/posts/2026-10-21-%E5%88%AB%E8%B5%B0%E6%88%91%E4%BB%AC%E8%BF%98%E6%B2%A1%E6%9C%89%E9%81%93%E5%88%AB/)
 - [我想做个好人](https://blog.notomorrow.club/posts/2026-10-16-%E6%88%91%E6%83%B3%E5%81%9A%E4%B8%AA%E5%A5%BD%E4%BA%BA/)
 - [又是近乎正常](https://blog.notomorrow.club/posts/2026-01-31-%E5%8F%88%E6%98%AF%E8%BF%91%E4%B9%8E%E6%AD%A3%E5%B8%B8/)
 - [Liz——一只小仓鼠](https://blog.notomorrow.club/posts/2026-01-11-Liz-%E4%B8%80%E5%8F%AA%E5%B0%8F%E4%BB%93%E9%BC%A0/)
@@ -20,7 +21,6 @@
 - [近乎正常](https://blog.notomorrow.club/posts/2024-04-28-next-to-normal/)
 - [2023年终总结](https://blog.notomorrow.club/posts/2024-01-15-2023%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/)
 - [天台山二日游](https://blog.notomorrow.club/posts/2023-11-03-%E5%A4%A9%E5%8F%B0%E5%B1%B1/)
-- [联邦宇宙三周年](https://blog.notomorrow.club/posts/2023-10-3-%E8%81%94%E9%82%A6%E5%AE%87%E5%AE%99%E4%B8%89%E5%91%A8%E5%B9%B4/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Read more ...
